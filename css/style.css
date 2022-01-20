@@ -1,0 +1,19 @@
+*{
+    color: #ffffff;
+}
+body{
+    background-color: #000000;
+}
+div.comands{
+    background-color: #008b8b;
+    padding: 5px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 30px #ec0d0d;
+}
+div.content{
+    background-color: #8a2be2;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 30px #ffffff;
+}
