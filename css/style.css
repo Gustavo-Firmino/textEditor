@@ -17,3 +17,12 @@ div.content{
     border-radius: 10px;
     box-shadow: 3px 3px 30px #ffffff;
 }
+input{
+    color: black;
+}
+button{
+    color: #000;
+    background-color: coral;
+    border-radius: 2px;
+    margin: 10px;
+}
